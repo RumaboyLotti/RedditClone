@@ -44,10 +44,6 @@ This is a React and Redux-based web application that allows users to browse, sea
 
 To get started with the app, simply clone this repository and follow the instructions in the `README.md` file. You will need Node.js and npm installed on your computer to run the app.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for review. For major changes, please open an issue first to discuss the proposed changes.
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
