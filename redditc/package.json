@@ -38,4 +38,5 @@
   "jest": {
     "testMatch": ["<rootDir>/tests/**/*.js"]
   }
+  
 }
